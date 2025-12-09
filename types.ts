@@ -1,5 +1,5 @@
 export enum TabView {
-  PRODUCT = 'PRODUCT', // Used for Fortune Tab
+  FORTUNE = 'FORTUNE',
   ZEN = 'ZEN',
   CHAT = 'CHAT',
   INSPIRATION = 'INSPIRATION'
